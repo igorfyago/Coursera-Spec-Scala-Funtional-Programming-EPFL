@@ -11688,7 +11688,7 @@
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-sbt#template-resolver;0.1!template-resolver.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang#jline;2.10.7!jline.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar[0m
-[0m[[0mdebug[0m] [0m:: resolution report :: resolve 5490ms :: artifacts dl 134ms[0m
+[0m[[0mdebug[0m] [0m:: resolution report :: resolve 10914ms :: artifacts dl 317ms[0m
 [0m[[0mdebug[0m] [0m	report for default#recfun-build;0.1-SNAPSHOT compile produced in D:\GitHub\Coursera-Spec-Scala-EPFL\1. Functional Programming Principles in Scala\recfun\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-recfun-build-compile.xml[0m
 [0m[[0mdebug[0m] [0m	report for default#recfun-build;0.1-SNAPSHOT runtime produced in D:\GitHub\Coursera-Spec-Scala-EPFL\1. Functional Programming Principles in Scala\recfun\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-recfun-build-runtime.xml[0m
 [0m[[0mdebug[0m] [0m	report for default#recfun-build;0.1-SNAPSHOT test produced in D:\GitHub\Coursera-Spec-Scala-EPFL\1. Functional Programming Principles in Scala\recfun\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-recfun-build-test.xml[0m
@@ -11702,5 +11702,5 @@
 [0m[[0mdebug[0m] [0m	report for default#recfun-build;0.1-SNAPSHOT docs produced in D:\GitHub\Coursera-Spec-Scala-EPFL\1. Functional Programming Principles in Scala\recfun\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-recfun-build-docs.xml[0m
 [0m[[0mdebug[0m] [0m	report for default#recfun-build;0.1-SNAPSHOT pom produced in D:\GitHub\Coursera-Spec-Scala-EPFL\1. Functional Programming Principles in Scala\recfun\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-recfun-build-pom.xml[0m
 [0m[[0mdebug[0m] [0m	report for default#recfun-build;0.1-SNAPSHOT scala-tool produced in D:\GitHub\Coursera-Spec-Scala-EPFL\1. Functional Programming Principles in Scala\recfun\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-recfun-build-scala-tool.xml[0m
-[0m[[0mdebug[0m] [0m	resolve done (5490ms resolve - 134ms download)[0m
+[0m[[0mdebug[0m] [0m	resolve done (10914ms resolve - 317ms download)[0m
 [0m[[0minfo[0m] [0mDone updating.[0m
